@@ -1,11 +1,19 @@
 # VLT-Systems
 
-Local AI systems, market research and automation experiments.
+Building VULTURE OS - an AI-driven ecosystem for market microstructure analysis.
 
-## Areas
+## What we build
 
-- market structure
-- AI workflows
-- data parsing
-- automation
-- research notes
+- Market liquidity and order flow research tools
+- Local AI infrastructure for financial data analysis
+- Automation workflows for market monitoring
+- Knowledge systems for trading research
+
+## Stack
+
+Obsidian / Python / n8n / Ollama / Docker
+
+## Links
+
+- Telegram: https://t.me/vlt_systems
+- Website: https://vlt-systems.com
